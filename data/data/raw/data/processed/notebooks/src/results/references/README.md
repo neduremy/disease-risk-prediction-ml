@@ -14,3 +14,13 @@ This project explores disease risk prediction using machine learning and probabi
 
 ## Research Interests
 Biosciences, data-centric sciences, computational statistics, probabilistic modeling, machine learning, and AI.
+
+
+## Planned Work / Next Steps
+- Collect and explore bioscience datasets relevant to disease risk prediction.
+- Clean and preprocess datasets, saving them in `data/processed/`.
+- Develop exploratory notebooks in `notebooks/` for analysis and visualization.
+- Implement machine learning and probabilistic models in `src/`.
+- Save model results, graphs, and tables in `results/`.
+- Document research papers, references, and important links in `references/`.
+- Continuously update the README to reflect progress and findings.
