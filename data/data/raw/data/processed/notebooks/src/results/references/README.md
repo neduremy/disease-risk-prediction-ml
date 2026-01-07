@@ -1,4 +1,3 @@
-Markdown 
 
 # Disease Risk Prediction ML
 
